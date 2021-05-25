@@ -3,13 +3,12 @@
 
 import sys
 if __name__ == '__main__':
-    s = str(input())
-    total = 0  # сумма
-    kol = 0  # количество
-    for i in range(len(s)):
-        if s[i].isdigit():
-            kol = kol + 1
-        if s[i].isalpha():  # посимвольно проверяем наличие буквы
-            continue  # инструкция перехода к следующему шагу цикла
-        total = total + int(s[i])  # накапливаем сумму, если встретилась цифра
-    print("сумма чисел", total, ", их количество:", kol, ',max=', max(int(x) for x in s if x.isdigit()))
+    c = str(input("Впишите числа "))
+    k = 0
+    for i in range(len(c)):
+        if c[i].isdigit():
+            k = k + 1
+        if c[i].isalpha():
+            continue
+        x = c[i]
+    print("количество чисел:", k, ',max=', max(x))
