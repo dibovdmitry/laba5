@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2021-05-25T20:11:33.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="MgO2VWnWZ7b07Q0egJJH" version="14.6.13" type="github">
+  <diagram id="aoA7ihZStqxC-dKKYQ2P" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vaz9GyMPrD7RZ0xWUUvn-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vaz9GyMPrD7RZ0xWUUvn-2" value="" style="endArrow=classic;html=1;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.5" y="60" as="sourcePoint" />
+            <mxPoint x="379.5" y="108" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vaz9GyMPrD7RZ0xWUUvn-3" value="v=&quot;undertaleq&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="308" y="108" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vaz9GyMPrD7RZ0xWUUvn-4" value="d=v[::-1]" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="312" y="228" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vaz9GyMPrD7RZ0xWUUvn-9" value="" style="endArrow=classic;html=1;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382" y="168" as="sourcePoint" />
+            <mxPoint x="382" y="228" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vaz9GyMPrD7RZ0xWUUvn-10" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="324" y="336" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vaz9GyMPrD7RZ0xWUUvn-11" value="" style="endArrow=classic;html=1;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Vaz9GyMPrD7RZ0xWUUvn-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384" y="288" as="sourcePoint" />
+            <mxPoint x="434" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
